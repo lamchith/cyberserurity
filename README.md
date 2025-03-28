@@ -21,4 +21,4 @@ security goals of various organizations?
 professional statement about the Cybersecurity follows
 
 I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. 
-I want to use the excisting experiece to make good impact in Cybersecurity
+I want to use my the excisting experiece to make good impact in Cybersecurity
